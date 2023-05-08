@@ -23,7 +23,7 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
  
 5.- Enviar una secuenta de ADN 
 ```bash
-method:Post
+   method:Post
    url : http://localhost:3000/api/adn/mutation 
    body:  {
             "dna": ["ATGAAAGTAC","TACTGTTGTT","GGACACCCGA","CCTGTAAACG","AAGTGGCCAA","TACAACCGGT","GTTGAAACAC","CCACTGATCG","AGTAGTGAGC","AACTCAAGCA"]
@@ -32,6 +32,6 @@ method:Post
 
 6.- Obtener informacion de las estadisticas
 ```bash
-method:Get
+   method:Get
    url: http://localhost:3000/api/adn/stats 
 ```
