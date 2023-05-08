@@ -12,7 +12,7 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
    npm install
 ```
 
-3.- dirigete a la carpeta typescript-adn y dentro de la carpeta ingresa lo siguiente
+3.- Dirigete a la carpeta typescript-adn y dentro de la carpeta ingresa lo siguiente
 ```bash
    npm install
 ```
