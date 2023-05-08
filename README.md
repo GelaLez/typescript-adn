@@ -38,10 +38,13 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
    url: http://localhost:3000/api/adn/stats 
 ```
 
-Los siguientes secuencias se probaron:
+Las siguientes secuencias se probaron:
 ```bash
 
 ["ATGCGH", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"]
 ["ATGCGHD", "CAGTGCD", "TTATGTD", "AGAAGGD", "CCCCTAD", "TCACTGD", "TCACTGD"]
 
 ```
+
+![imagen](https://user-images.githubusercontent.com/16170395/236930182-3fe7acd5-6f8d-4e6e-8b32-475cdcd58186.png)
+
