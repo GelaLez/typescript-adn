@@ -5,14 +5,21 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
 1.- Lo primero que tenemos que hacer es clonar el proyecto, la liga es 
 ** https://github.com/GelaLez/typescript-adn.git **
 
-2.- Instala las dependencias con el manejador de paquetes npm,
-**npm install**
+2.- Instala las dependencias con el manejador de paquetes npm
+```bash
+   npm install
+```
+
 
 3.- Abre una terminal para preparar el programa
- **npm run dev**
+```bash
+   npm run dev
+ ```
  
 4.- Abre otra terminal y corre el siguiente comando
- **npm run start**
+ ```bash
+ npm run start
+ ```
  
 5.- Enviar una secuenta de ADN 
 **method:Post
