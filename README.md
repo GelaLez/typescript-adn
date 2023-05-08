@@ -46,5 +46,5 @@ Las siguientes secuencias se probaron:
 
 ```
 
-![imagen](https://user-images.githubusercontent.com/16170395/236930182-3fe7acd5-6f8d-4e6e-8b32-475cdcd58186.png)
+![imagen](https://user-images.githubusercontent.com/16170395/236930494-30973e53-6810-4aa6-8f70-7d09c6881e17.png)
 
