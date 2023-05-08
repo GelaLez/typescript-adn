@@ -35,3 +35,11 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
    method:Get
    url: http://localhost:3000/api/adn/stats 
 ```
+
+Los siguientes secuencias se probaron:
+```bash
+
+["ATGCGH", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG"]
+["ATGCGHD", "CAGTGCD", "TTATGTD", "AGAAGGD", "CCCCTAD", "TCACTGD", "TCACTGD"]
+
+```
