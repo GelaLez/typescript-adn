@@ -12,18 +12,23 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
    npm install
 ```
 
+3.- dirigete a la carpeta typescript-adn y dentro de la carpeta ingresa lo siguiente
+```bash
+   npm install
+```
 
-3.- Abre una terminal e ingresa el siguiente comando
+
+4.- Abre una terminal e ingresa el siguiente comando
 ```bash
    npm run dev
  ```
  
-4.- Abre otra terminal e ingresa el siguiente comando
+5.- Abre otra terminal e ingresa el siguiente comando
  ```bash
     npm run start
  ```
  
-5.- Enviar una secuenta de ADN 
+6.- Enviar una secuenta de ADN 
 ```bash
    method:Post
    url : http://localhost:3000/api/adn/mutation 
@@ -32,7 +37,7 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
          }
  ```
 
-6.- Obtener informacion de las estadisticas
+7.- Obtener informacion de las estadisticas
 ```bash
    method:Get
    url: http://localhost:3000/api/adn/stats 
