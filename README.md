@@ -1,4 +1,4 @@
-# evolve-adn
+# Evolve-adn
 
 El sistema evolve-adn tiene como proposito detectar si una persona tiene diferencias geneticas basandose en su secuencia de ADN.
 
@@ -20,7 +20,7 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
  
 4.- Abre otra terminal y corre el siguiente comando
  ```bash
- npm run start
+   npm run start
  ```
  
 5.- Enviar una secuenta de ADN 
