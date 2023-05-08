@@ -13,12 +13,12 @@ El sistema evolve-adn tiene como proposito detectar si una persona tiene diferen
 ```
 
 
-3.- Abre una terminal para preparar el programa
+3.- Abre una terminal e ingresa el siguiente comando
 ```bash
    npm run dev
  ```
  
-4.- Abre otra terminal y corre el siguiente comando
+4.- Abre otra terminal e ingresa el siguiente comando
  ```bash
     npm run start
  ```
