@@ -3,7 +3,9 @@
 El sistema evolve-adn tiene como proposito detectar si una persona tiene diferencias geneticas basandose en su secuencia de ADN.
 
 1.- Lo primero que tenemos que hacer es clonar el proyecto, la liga es 
-** https://github.com/GelaLez/typescript-adn.git **
+```bash 
+   https://github.com/GelaLez/typescript-adn.git 
+```
 
 2.- Instala las dependencias con el manejador de paquetes npm
 ```bash
